@@ -1,1 +1,11 @@
 hello friends
+command
+cd /c  ->go to c drive
+ls     ->list
+cd foldername/ ->go to folder
+git config --global user.name "dsv1997" 
+git config --global user.email dsv2075@gmail.com
+git add test.txt
+git status
+git commit -m "first commit" test.txt
+git push -u origin master
